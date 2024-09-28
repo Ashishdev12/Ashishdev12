@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently Learning React-js (https://react.dev/learn)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashishdev12/Projects-Js](https://github.com/Ashishdev12/Projects-Js)
+- 👨‍💻 All of my projects are available at [https://github.com/Ashishdev12?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS AND JavaScript**
 
