@@ -29,7 +29,7 @@
 <a href="https://www.geeksforgeeks.org/html/html5-introduction/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-%2523E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML%"/> </a> 
 <a href="https://www.geeksforgeeks.org/css/difference-between-css-and-css3/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/> </a> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bable-%25%23F1D53C.svg?style=for-the-badge&logoColor=white" alt="babel"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bable-%237410F0.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%237410F0.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/w3School-%2303A469.svg?style=for-the-badge&logo=w3school&logoColor=white" alt="css3"/> </a> 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cypress-%2359595B.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" /> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-%23F7F7F7.svg?style=for-the-badge&logo=Figma" alt="figma" /> </a> 
